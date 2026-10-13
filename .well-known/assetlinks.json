@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.caldron.ai",
+    "sha256_cert_fingerprints": [
+      "23:D4:05:D0:AA:FB:9B:CF:19:10:71:D7:AF:D6:A1:93:02:67:1B:E5:E7:6B:A7:3E:58:7C:33:47:EF:CC:F1:6F",
+      "E7:12:01:E8:A0:7E:69:6A:24:A1:FF:F3:E8:9E:2B:E7:1D:0A:10:20:76:39:B9:13:6E:BD:5F:F6:FE:E3:81:41"
+    ]
+  }
+}]
